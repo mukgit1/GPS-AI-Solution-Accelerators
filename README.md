@@ -1,6 +1,6 @@
-# GPS Official Repository for AI Solution Accelerators
+# System Integrator Partner - AI Solution Accelerator Repository
 
-This is the official hub for solution accerators for Microsoft GSI partners to use for building customer solutions for AI Design Wins
+This is a central hub for solution accelerators for Microsoft SI partners to use for building customer solutions for AI Design Wins
 
 
 ## Solution Accelerators
