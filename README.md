@@ -29,7 +29,7 @@ This is a central hub for solution accelerators for Microsoft SI partners to use
   - CosmosAIGraph: An AI-Powered Graph and Knowledge Graph Solution with Azure Cosmos DB. Combine the power of baseline (vetor search) with the contextual and relationship data captured in  a knowledge graph to bring you RAG apps to the next level with Azure Cosmos DB.
   - Python
   - Supports both Azure Cosmos DB for NoSQL and vCore-based Azure Cosmos DB for MongoDB
-  - [Code](https://github.com/cjoakim/CosmosAIGraph)
+  - [Code](https://github.com/azurecosmosdb/cosmosaigraph)
 
   
 ## Other content
