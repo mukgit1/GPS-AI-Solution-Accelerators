@@ -22,14 +22,12 @@ This is a central hub for solution accelerators for Microsoft SI partners to use
 
 ### Build a Copilot App in Python with Azure Cosmos DB for NoSQL
   - This sample demonstrates how to build a RAG Pattern application using a subset of the Movie Lens dataset. This sample will leverage the Python SDK for Azure Cosmos DB for NoSQL to perform vector search for RAG, store and retrieve chat history, and store the vectors of the chat history to use as a semantic cache. Azure OpenAI to generate embeddings and LLM completions.
-    - Jupypter Notebook
-    - Python
+    - Jupypter Notebook, Python, Azure Cosmos DB for NoSQL
     - [Sample App](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples/blob/main/Python/CosmosDB-NoSQL_VectorSearch/CosmosDB-NoSQL-Quickstart-RAG-Chatbot.ipynb)
    
 ### Build a Graph RAG application 
   - Cosmos AI Graph: An AI-Powered Graph and Knowledge Graph Solution with Azure Cosmos DB. Combine the power of baseline (vetor search) with the contextual and relationship data captured in  a knowledge graph to bring you RAG apps to the next level with Azure Cosmos DB.
-  - Python
-  - Supports both Azure Cosmos DB for NoSQL and vCore-based Azure Cosmos DB for MongoDB
+  - Python, Azure Cosmos DB for NoSQL or Azure Cosmos DB for MongoDB (vCore)
   - [Sample App](https://github.com/azurecosmosdb/cosmosaigraph)
 
   
